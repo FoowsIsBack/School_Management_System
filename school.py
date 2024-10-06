@@ -17,7 +17,7 @@ course = [
 
 while True:
     print("---------------------------")
-    print(" School Management Sytem")
+    print(" School Management System")
     print("---------------------------")
     print("1. List of Course")
     print("2. Register of Students")
