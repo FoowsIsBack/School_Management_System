@@ -1,5 +1,7 @@
 # School_Management
-![image](https://github.com/user-attachments/assets/24e09de6-44aa-45c0-a3cc-1939093b556d)
+![image](https://github.com/user-attachments/assets/d03747fb-9dc5-4921-b868-b0cd840db632)
+
+
 
 
 # Run code
