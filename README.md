@@ -6,5 +6,6 @@
 ```sh
 git clone https://github.com/FoowsIsBack/School_Management.git
 cd School_Management
+test
 python3 school.py
 ```
