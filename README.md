@@ -1,12 +1,13 @@
-# School_Management
-![image](https://github.com/user-attachments/assets/d03747fb-9dc5-4921-b868-b0cd840db632)
+# School_Management_System
+![image](https://github.com/user-attachments/assets/e8689cc9-237a-4dc0-b971-1c5c1cee9cd9)
+
 
 
 
 
 # Run code
 ```sh
-git clone https://github.com/FoowsIsBack/School_Management.git
-cd School_Management
+git clone https://github.com/FoowsIsBack/School_Management_System.git
+cd School_Management_System
 python3 school.py
 ```
